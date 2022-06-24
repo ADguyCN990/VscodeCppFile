@@ -1,0 +1,2 @@
+
+    tmax += calMax();

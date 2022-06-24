@@ -1,0 +1,1 @@
+cout<<"hash for "<<x<<" : "<<hash<<endl;
